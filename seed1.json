@@ -1,0 +1,9 @@
+{
+  "seed_id": "seed1",
+  "description": "Initial consumer awareness levels",
+  "data": {
+    "aware_consumers": 0.6,
+    "unaware_consumers": 0.4,
+    "influence_of_nutritionists": 0.3
+  }
+}

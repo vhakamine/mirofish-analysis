@@ -1,0 +1,9 @@
+{
+  "seed_id": "seed3",
+  "description": "Regulatory impact scores",
+  "data": {
+    "labeling_change": 0.9,
+    "ingredient_ban": 0.7,
+    "new_additive_approval": 0.4
+  }
+}
