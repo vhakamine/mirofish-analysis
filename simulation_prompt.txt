@@ -1,0 +1,49 @@
+PROBLEM
+- Fabricantes alteram fórmulas para reduzir custos, diminuindo nutrientes ou aumentando aditivos controversos.
+- Consumidores não têm forma prática de saber quando um produto que compram habitualmente teve sua composição alterada.
+- Influenciadores apontam as mudanças, mas a informação é dispersa.
+
+CUSTOMER SEGMENTS
+- Consumidores conscientes (25‑45, AB, preocupados com saúde/nutrição).
+- Influenciadores de nutrição / dietistas.
+- B2B: fabricantes e varejistas que querem monitorar concorrência e evitar crises de reputação.
+
+VALUE PROPOSITION
+- Alerta em tempo real sempre que um produto que você acompanha sofrer alteração relevante na composição.
+- Score de saudabilidade (0‑100) baseado em OMS/Guia Alimentar Brasileiro.
+- B2B: painel de monitoramento de fórmula da concorrência + relatórios mensais de clean label.
+
+CHANNELS
+- App móvel (OCR + push).
+- Telegram / WhatsApp Bot.
+- Site / landing page.
+- API / relatórios PDF para B2B.
+
+REVENUE STREAMS
+- Freemium consumer: alertas básicos grátis; premium R$ 19,90/mês.
+- B2B subscription: API + relatórios mensais R$ 499/mês.
+- Licença de dados agregados (por projeto).
+- Afiliados / comissão por indicação de produtos com selo “Formula Transparente”.
+
+COST STRUCTURE
+- Desenvolvimento (mobile + backend): ~R$ 8 000/mês (MVP 3 meses).
+- Infraestrutura: AWS/Heroku free tier + PostgreSQL gratuito.
+- OCR/IA: Tesseract open‑source + Google Vision free tier (até 1000 chamadas/mês).
+- Marketing: testes de tráfego pago, conteúdo para redes.
+- Legal/PI: depósito de direito autoral e marca (~R$ 500‑800).
+- Suporte: VA part‑time ou tempo próprio (~R$ 1 500/mês).
+
+KEY METRICS
+- CAC < 30% LTV.
+- Churn mensal < 5%.
+- Taxa de ativação (recebeu ≥1 alerta no 1º mês) > 40%.
+- NPS > 30.
+- Rótulos processados/dia: meta 500 → escalar para 10k+.
+
+UNFAIR ADVANTAGE
+- Base de dados proprietária de fórmulas construída via crowdsourcing + OCR.
+- Parceria com influenciadores de nutrição já engajados.
+- Algoritmo de deteção de mudança ajustado às normas ANVISA e diretrizes de rótulo brasileiro (diferencial vs soluções globais genéricas).
+
+HIGH‑LEVEL CONCEPT
+- “O Google Alerts para a composição dos alimentos que você consome – receba uma notificação sempre que o produto que você compra mudar sua fórmula e descubra se continua saudável.”
