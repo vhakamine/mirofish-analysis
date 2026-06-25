@@ -1,6 +1,6 @@
 # 🍔 Food Formulation Knowledge Base — Base de Conhecimento sobre Formulações de Alimentos
 
-> Compilado em: 18/05/2026 | Última verificação: 20/06/2026
+> Compilado em: 18/05/2026 | Última verificação: 23/06/2026
 > Fontes: Wikipedia, ISAAA, FDA, ANVISA, ABIA, Food Ingredients First, Food Navigator
 > Propósito: Alimentar o grafo de conhecimento dos agentes Mirofish
 > Contexto: Monitoramento de mudanças em fórmulas de alimentos industrializados
